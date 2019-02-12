@@ -20,8 +20,10 @@ public class DemoIO07 {
 
     public static void test1(){
 
-        try(BufferedReader reader = new BufferedReader(new InputStreamReader(System.in));
-            BufferedWriter writer = new BufferedWriter(new OutputStreamWriter(System.out))){
+        try(
+                BufferedReader reader = new BufferedReader(new InputStreamReader(System.in));
+                BufferedWriter writer = new BufferedWriter(new OutputStreamWriter(System.out))
+        ){
             String str = null;
             while(!(str=reader.readLine()).equals("exit")){
                // System.out.println(str);
