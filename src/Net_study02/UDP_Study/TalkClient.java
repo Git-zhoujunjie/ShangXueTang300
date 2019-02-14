@@ -1,10 +1,19 @@
-package Net_study02;
+package Net_study02.UDP_Study;
 
 import java.io.*;
 import java.net.DatagramPacket;
 import java.net.DatagramSocket;
 import java.net.InetSocketAddress;
 
+/**
+ * 实现控制台连续发送信息
+ * 发送端
+ * 1、使用DatagramSocket 指定端口 创建发送端
+ * 2、准备数据，转成字节数组
+ * 3、封装成DatagramPacket包裹，指定目的地
+ * 4、发送包裹send(DatagramPacket p)
+ * 5、释放资源
+ */
 public class TalkClient {
     public static void main(String[] args) throws Exception {
         System.out.println("发送端启动中。。。");

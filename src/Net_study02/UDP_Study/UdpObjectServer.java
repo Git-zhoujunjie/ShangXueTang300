@@ -1,4 +1,4 @@
-package Net_study02;
+package Net_study02.UDP_Study;
 
 import java.io.BufferedInputStream;
 import java.io.ByteArrayInputStream;

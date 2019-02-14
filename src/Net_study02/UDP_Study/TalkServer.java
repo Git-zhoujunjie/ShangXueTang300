@@ -1,8 +1,19 @@
-package Net_study02;
+package Net_study02.UDP_Study;
 
 import java.net.DatagramPacket;
 import java.net.DatagramSocket;
 
+/**
+ * 实现连续接受信息
+ * 接收方：
+ * 1、使用DatagramSocket 指定端口 创建接收端
+ * 2、准备容器，封装成DatagramPacket包裹
+ * 3、阻塞式接收包裹receive(DatagramPacket p)
+ * 4、分析数据
+ *      byte[] getData()
+ *             getLength()
+ * 5、释放资源
+ */
 public class TalkServer {
     public static void main(String[] args) throws Exception {
         System.out.println("接收端启动中。。。");
