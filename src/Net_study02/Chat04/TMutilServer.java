@@ -87,7 +87,7 @@ public class TMutilServer {
         }
         //发送群聊消息、发送私聊消息
         private void SendOthers(String msg,boolean flag) {
-            //定义私聊信息格式 @NAME:
+            //定义私聊信息格式 @NAME:msg
             if (msg.startsWith("@")) {   //私聊
                 String _name = msg.substring(1, msg.indexOf(":"));
                 String _msg = msg.substring(msg.indexOf(":") + 1);
