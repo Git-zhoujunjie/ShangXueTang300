@@ -1,5 +1,13 @@
 package BuildServer.ServerStudy01;
 
+/**
+ * 存储person信息，一个person相当于一个类的对象
+ * <person>
+ *      <name>至尊宝</name>
+ *      <age>9000</age>
+ * </person>
+ * 可看出包含name和age
+ */
 public class Person {
     private String name;
     private int age;
