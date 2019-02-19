@@ -67,7 +67,7 @@ public class Dispatcher implements Runnable{
             }
             release();
         }
-
+        release(); //这里关掉当前客户端
     }
 
     //关闭服务
