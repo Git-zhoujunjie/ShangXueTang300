@@ -1,0 +1,33 @@
+@startuml
+
+
+class Demo01
+class Demo02
+class Demo03
+
+class Test
+
+Test <|-  Demo01
+Test <|-  Demo03
+Test <|-  Demo02
+
+'List <|-- AbstractList
+'Collection <|-- AbstractCollection
+'
+'Collection <|- List
+'AbstractCollection <|- AbstractList
+'AbstractList <|-- ArrayList
+'
+'class ArrayList {
+'Object[] elementData
+'size()
+'}
+'
+'enum TimeUnit {
+'DAYS
+'HOURS
+'MINUTES
+'}
+
+
+@enduml
