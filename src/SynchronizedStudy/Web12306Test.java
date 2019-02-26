@@ -13,7 +13,7 @@ public class Web12306Test{
 }
 
 /**
- * TreanCustomer类相当于一个静态代理
+ * TrainCustomer类相当于一个静态代理
  * 一个顾客代理一次购票
  */
 class TrainCustomer extends Thread{
