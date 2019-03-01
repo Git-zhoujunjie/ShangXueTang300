@@ -1,0 +1,6 @@
+
+
+java.io.InputStreamReader(InputStream)
+java.io.OutputStreamWriter(OutputStream)
+
+使用了适配器模式

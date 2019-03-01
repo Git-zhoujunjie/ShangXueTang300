@@ -16,7 +16,6 @@ public class Client3 {
         //s1.setName("45653");
         System.out.println(s1.getName());
         System.out.println(s1.getBirthday());
-
         //序列化 ，将对象s1存储到字节缓冲流中
         ByteArrayOutputStream bos = new ByteArrayOutputStream();
         ObjectOutputStream oos = new ObjectOutputStream(bos);
