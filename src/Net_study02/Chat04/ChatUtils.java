@@ -13,9 +13,7 @@ public class ChatUtils {
         for (Closeable s : stream) {
             try {
                 if (s != null) {
-
                     s.close();
-
                 }
             } catch (IOException e) {
                 e.printStackTrace();
