@@ -1,0 +1,8 @@
+
+
+策略模式：
+ --分离算法，选择实现
+
+开发场景：
+ --Spring框架中，Resource接口，资源访问策略
+ --javax.servlet.http.HttpServlet#service()
