@@ -1,0 +1,1169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c0c9b0ca-ec9e-4ae7-87db-c65caa71f19b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/BuildServer/read.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DesignPattern/Proxy/DynamicProxy2/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DesignPattern/Proxy/DynamicProxy2/Gongneng.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DesignPattern/Proxy/DynamicProxy2/Laozong.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DesignPattern/Proxy/DynamicProxy2/MishuHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DesignPattern/Proxy/DynamicProxy3/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DesignPattern/Proxy/DynamicProxy3/Laozong.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DesignPattern/Proxy/DynamicProxy3/MishuHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JVMStudy/Demo01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JVMStudy/JVM.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JVMStudy/java/lang/String.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JVMStudy/read.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ZJavaAdvanceStage/test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/test01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ShangXueTang300.iml" beforeDir="false" afterPath="$PROJECT_DIR$/ShangXueTang300.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BuildServer/ServerStudy02/Request01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BuildServer/ServerStudy02/Request01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BuildServer/ServerStudy02/Request02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BuildServer/ServerStudy02/Request02.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BuildServer/ServerStudy02/Server02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BuildServer/ServerStudy02/Server02.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BuildServer/ServerStudy02/Server03.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BuildServer/ServerStudy02/Server03.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BuildServer/ServerStudy02/Server05.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BuildServer/ServerStudy02/Server05.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BuildServer/ServerStudy02/login.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/BuildServer/ServerStudy02/login.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ConcurrentStudy/CoTest01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ConcurrentStudy/CoTest01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DesignPattern/Adapter/Client2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DesignPattern/Adapter/Client2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DesignPattern/Adapter/adapter.puml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DesignPattern/Prototype/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DesignPattern/Prototype/Client.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DesignPattern/Proxy/DynamicProxy/RealStar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DesignPattern/Proxy/DynamicProxy/RealStar.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DesignPattern/Proxy/DynamicProxy/Star.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DesignPattern/Proxy/DynamicProxy/Star.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DesignPattern/Proxy/DynamicProxy/StarHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DesignPattern/Proxy/DynamicProxy/StarHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DesignPattern/Singleton/Demo03.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DesignPattern/Singleton/Demo03.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DesignPattern/read.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/DesignPattern/read.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/GaojiThem/VolatileTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GaojiThem/VolatileTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SynchronizedStudy/DeadLock.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SynchronizedStudy/DeadLock.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ZJavaAdvanceStage/TestJavassist/Demo01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ZJavaAdvanceStage/TestJavassist/Demo01.java" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/ShangXueTang300$TalkClient.ic" NAME="TalkClient Coverage Results" MODIFIED="1549947682868" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>Net_study02.*</FILTER>
+    </SUITE>
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="ShangXueTang300">
+      <favorite_root url="file://$PROJECT_DIR$/lib/commons-io-2.6.jar" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+    </favorites_list>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/ZJavaAdvanceStage/ReflectionStudy/Demo03.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="126">
+              <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/ZJavaAdvanceStage/ReflectionStudy/Demo04.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-499">
+              <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/ZJavaAdvanceStage/AnnotationStudy/Demo01.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/ZJavaAdvanceStage/AnnotationStudy/SxtTable.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="216">
+              <caret line="15" column="4" selection-start-line="15" selection-start-column="4" selection-end-line="15" selection-end-column="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/ZJavaAdvanceStage/AnnotationStudy/Demo02.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/ZJavaAdvanceStage/AnnotationStudy/Demo03.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="347">
+              <caret line="22" column="43" lean-forward="true" selection-start-line="22" selection-start-column="43" selection-end-line="22" selection-end-column="43" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/ZJavaAdvanceStage/AnnotationStudy/SxtStudent.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="144">
+              <caret line="8" column="21" selection-start-line="8" selection-start-column="11" selection-end-line="8" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/ZJavaAdvanceStage/AnnotationStudy/AnnotationTest01.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="11" column="7" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/ZJavaAdvanceStage/AnnotationStudy/AnnotationTest02.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="108">
+              <caret line="9" column="3" lean-forward="true" selection-start-line="9" selection-start-column="3" selection-end-line="9" selection-end-column="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/ZJavaAdvanceStage/AnnotationStudy/SxtField.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="198">
+              <caret line="14" column="18" selection-start-line="14" selection-start-column="18" selection-end-line="14" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="FxmlFile" />
+        <option value="AnnotationType" />
+        <option value="Enum" />
+        <option value="Singleton" />
+        <option value="UML Component" />
+        <option value="UML Class" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>blank</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/DesignPattern/Observer/ConcreteSubject.java" />
+        <option value="$PROJECT_DIR$/src/DesignPattern/Observer/Observers.java" />
+        <option value="$PROJECT_DIR$/src/DesignPattern/Observer/Subject.java" />
+        <option value="$PROJECT_DIR$/src/DesignPattern/Observer/ObserverA.java" />
+        <option value="$PROJECT_DIR$/src/DesignPattern/Observer/Client.java" />
+        <option value="$PROJECT_DIR$/src/DesignPattern/Observer/Observer2/ConcreteSubject.java" />
+        <option value="$PROJECT_DIR$/src/DesignPattern/Observer/Observer2/ObserverA.java" />
+        <option value="$PROJECT_DIR$/src/DesignPattern/Observer/Observer2/Client.java" />
+        <option value="$PROJECT_DIR$/src/DesignPattern/Observer/read.txt" />
+        <option value="$PROJECT_DIR$/src/DesignPattern/Memento.java" />
+        <option value="$PROJECT_DIR$/src/DesignPattern/Memento/EmpMemento.java" />
+        <option value="$PROJECT_DIR$/src/DesignPattern/Memento/Emp.java" />
+        <option value="$PROJECT_DIR$/src/DesignPattern/Memento/read.txt" />
+        <option value="$PROJECT_DIR$/src/DesignPattern/Memento/CareTaker.java" />
+        <option value="$PROJECT_DIR$/src/DesignPattern/Memento/Client.java" />
+        <option value="$PROJECT_DIR$/src/BuildServer/ServerStudy02/Request01.java" />
+        <option value="$PROJECT_DIR$/src/BuildServer/ServerStudy02/Server02.java" />
+        <option value="$PROJECT_DIR$/src/BuildServer/ServerStudy02/Server03.java" />
+        <option value="$PROJECT_DIR$/src/BuildServer/ServerStudy02/Request02.java" />
+        <option value="$PROJECT_DIR$/src/BuildServer/ServerStudy02/Server05.java" />
+        <option value="$PROJECT_DIR$/src/BuildServer/ServerStudy02/login.html" />
+        <option value="$PROJECT_DIR$/src/JVMStudy/read.txt" />
+        <option value="$PROJECT_DIR$/src/JVMStudy/java/lang/String.java" />
+        <option value="$PROJECT_DIR$/src/JVMStudy/Demo01.java" />
+        <option value="$PROJECT_DIR$/src/GaojiThem/VolatileTest.java" />
+        <option value="$PROJECT_DIR$/src/ZJavaAdvanceStage/TestJavassist/Demo01.java" />
+        <option value="$PROJECT_DIR$/src/ZJavaAdvanceStage/test.java" />
+        <option value="$PROJECT_DIR$/src/DesignPattern/Proxy/DynamicProxy/StarHandler.java" />
+        <option value="$PROJECT_DIR$/src/DesignPattern/Proxy/DynamicProxy/Star.java" />
+        <option value="$PROJECT_DIR$/src/DesignPattern/Proxy/DynamicProxy/RealStar.java" />
+        <option value="$PROJECT_DIR$/src/DesignPattern/Proxy/DynamicProxy2/Gongneng.java" />
+        <option value="$PROJECT_DIR$/src/DesignPattern/Proxy/DynamicProxy2/Laozong.java" />
+        <option value="$PROJECT_DIR$/src/DesignPattern/Proxy/DynamicProxy2/MishuHandler.java" />
+        <option value="$PROJECT_DIR$/src/DesignPattern/Proxy/DynamicProxy2/Client.java" />
+        <option value="$PROJECT_DIR$/src/DesignPattern/Proxy/DynamicProxy3/Laozong.java" />
+        <option value="$PROJECT_DIR$/src/DesignPattern/Proxy/DynamicProxy3/MishuHandler.java" />
+        <option value="$PROJECT_DIR$/src/DesignPattern/Proxy/DynamicProxy3/Client.java" />
+        <option value="$PROJECT_DIR$/src/DesignPattern/Adapter/adapter.puml" />
+        <option value="$PROJECT_DIR$/src/DesignPattern/read.txt" />
+        <option value="$PROJECT_DIR$/src/SynchronizedStudy/DeadLock.java" />
+        <option value="$PROJECT_DIR$/src/test/test01.java" />
+        <option value="$PROJECT_DIR$/src/ConcurrentStudy/CoTest01.java" />
+        <option value="$PROJECT_DIR$/src/DesignPattern/Singleton/Demo03.java" />
+        <option value="$PROJECT_DIR$/src/DesignPattern/Singleton/Test03.java" />
+        <option value="$PROJECT_DIR$/src/DesignPattern/Prototype/Client.java" />
+        <option value="$PROJECT_DIR$/src/DesignPattern/Prototype/Client2.java" />
+        <option value="$PROJECT_DIR$/src/ThreadStudy/LambdaDemo03.java" />
+        <option value="$PROJECT_DIR$/src/BuildServer/read.txt" />
+        <option value="$PROJECT_DIR$/src/DesignPattern/Adapter/Client2.java" />
+        <option value="$PROJECT_DIR$/src/ZJavaAdvanceStage/AnnotationStudy/SxtStudent.java" />
+        <option value="$PROJECT_DIR$/src/ZJavaAdvanceStage/AnnotationStudy/SxtTable.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-10" />
+    <option name="width" value="1140" />
+    <option name="height" value="845" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <OptionsSetting value="false" id="Update" />
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="ShangXueTang300" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ShangXueTang300" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ShangXueTang300" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ShangXueTang300" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ShangXueTang300" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ShangXueTang300" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="ZJavaAdvanceStage" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ShangXueTang300" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ShangXueTang300" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="ZJavaAdvanceStage" type="462c0819:PsiDirectoryNode" />
+              <item name="AnnotationStudy" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ShangXueTang300" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ShangXueTang300" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="ZJavaAdvanceStage" type="462c0819:PsiDirectoryNode" />
+              <item name="ReflectionStudy" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ShangXueTang300" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ShangXueTang300" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="ZJavaAdvanceStage" type="462c0819:PsiDirectoryNode" />
+              <item name="ReflectionStudy" type="462c0819:PsiDirectoryNode" />
+              <item name="bean" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ShangXueTang300" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+            <path>
+              <item name="ShangXueTang300" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Scratches and Consoles" type="1a2a3e82:ScratchProjectViewPane$MyProjectNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file://D:/JavaProject/ShangXueTang300/src/DesignPattern/Singleton/Demo05.java" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1568340508721" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="JAVA" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.build" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\JavaProject\ShangXueTang300\src\JVMStudy" />
+      <recent name="D:\JavaProject\ShangXueTang300\src\BuildServer" />
+      <recent name="D:\JavaProject\ShangXueTang300\src" />
+      <recent name="D:\JavaProject\ShangXueTang300\Fate" />
+      <recent name="D:\JavaProject\ShangXueTang300\lib" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="DesignPattern.Proxy.DynamicProxy3" />
+      <recent name="DesignPattern.State" />
+      <recent name="DesignPattern.Strategy" />
+      <recent name="DesignPattern.Mediator" />
+      <recent name="DesignPattern.chainOfResponsibility" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\JavaProject\ShangXueTang300\src\DesignPattern\Proxy" />
+      <recent name="D:\JavaProject\ShangXueTang300\src\DesignPattern\Proxy\DynamicProxy" />
+      <recent name="D:\JavaProject\ShangXueTang300\src\DesignPattern\Builder02" />
+      <recent name="D:\JavaProject\ShangXueTang300\src\DesignPattern\Factory\MethodFactory" />
+      <recent name="D:\JavaProject\ShangXueTang300" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Demo03">
+    <configuration name="Client (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DesignPattern.Composite.Client" />
+      <module name="ShangXueTang300" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="DesignPattern.Composite.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DesignPattern.FlyWeight.Client" />
+      <module name="ShangXueTang300" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="DesignPattern.FlyWeight.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Demo03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ZJavaAdvanceStage.AnnotationStudy.Demo03" />
+      <module name="ShangXueTang300" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ZJavaAdvanceStage.AnnotationStudy.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="IPTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Net_study01.IPTest" />
+      <module name="ShangXueTang300" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Net_study01.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpiderTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Net_study01.SpiderTest01" />
+      <module name="ShangXueTang300" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Net_study01.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="commons-io-2.6.jar" type="JarApplication" factoryName="JAR Application">
+      <option name="JAR_PATH" value="$PROJECT_DIR$/lib/commons-io-2.6.jar" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Application.Client (3)" />
+      <item itemvalue="Application.Client" />
+      <item itemvalue="Application.IPTest" />
+      <item itemvalue="Application.SpiderTest01" />
+      <item itemvalue="JAR Application.commons-io-2.6.jar" />
+      <item itemvalue="Application.Demo03" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Demo03" />
+        <item itemvalue="Application.SpiderTest01" />
+        <item itemvalue="Application.IPTest" />
+        <item itemvalue="Application.Client" />
+        <item itemvalue="Application.Client (3)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="StructureViewFactory">
+    <option name="ACTIVE_ACTIONS" value=",SHOW_LAMBDA" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c0c9b0ca-ec9e-4ae7-87db-c65caa71f19b" name="Default Changelist" comment="" />
+      <created>1548561029994</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1548561029994</updated>
+      <workItem from="1551789279150" duration="117000" />
+      <workItem from="1552268069506" duration="3054000" />
+      <workItem from="1552298743752" duration="1508000" />
+      <workItem from="1552358252163" duration="14759000" />
+      <workItem from="1552698632228" duration="6948000" />
+      <workItem from="1552819088345" duration="95000" />
+      <workItem from="1552884951277" duration="40000" />
+      <workItem from="1553042884312" duration="643000" />
+      <workItem from="1553401009247" duration="3240000" />
+      <workItem from="1553586424266" duration="37000" />
+      <workItem from="1553601757006" duration="4622000" />
+      <workItem from="1553655635967" duration="1187000" />
+      <workItem from="1554181195635" duration="630000" />
+      <workItem from="1554252999657" duration="5536000" />
+      <workItem from="1554260731116" duration="232000" />
+      <workItem from="1554278895124" duration="482000" />
+      <workItem from="1554368084327" duration="3128000" />
+      <workItem from="1554520787001" duration="678000" />
+      <workItem from="1554605736087" duration="19000" />
+      <workItem from="1559262974701" duration="5238000" />
+      <workItem from="1564133437788" duration="678000" />
+      <workItem from="1564203948650" duration="11000" />
+      <workItem from="1564557873999" duration="26000" />
+      <workItem from="1565346728806" duration="5998000" />
+      <workItem from="1565866572668" duration="167000" />
+      <workItem from="1566524968838" duration="2753000" />
+      <workItem from="1568264128810" duration="2543000" />
+      <workItem from="1568339697662" duration="1380000" />
+    </task>
+    <task id="LOCAL-00001" summary="线程同步学习&#10;生产者消费者模式学习">
+      <created>1549721032560</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1549721032560</updated>
+    </task>
+    <task id="LOCAL-00002" summary="2019/2/10">
+      <created>1549806040618</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1549806040618</updated>
+    </task>
+    <task id="LOCAL-00003" summary="2019/2/10">
+      <created>1549809188482</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1549809188483</updated>
+    </task>
+    <task id="LOCAL-00004" summary="2019/2/12">
+      <created>1549951447301</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1549951447301</updated>
+    </task>
+    <task id="LOCAL-00005" summary="2019/2/14 情人节敲代码">
+      <created>1550159413559</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1550159413559</updated>
+    </task>
+    <task id="LOCAL-00006" summary="2019/2/15">
+      <created>1550242092220</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1550242092221</updated>
+    </task>
+    <task id="LOCAL-00007" summary="2019/2/17">
+      <created>1550408054178</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1550408054178</updated>
+    </task>
+    <task id="LOCAL-00008" summary="2019/2/18  手写webserver完成！！">
+      <created>1550495395778</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1550495395778</updated>
+    </task>
+    <task id="LOCAL-00009" summary="2019/2/18  手写webserver完成！！">
+      <created>1550566968595</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1550566968595</updated>
+    </task>
+    <task id="LOCAL-00010" summary="2019/2/19  注解和反射">
+      <created>1550567059787</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1550567059787</updated>
+    </task>
+    <task id="LOCAL-00011" summary="2019/2/20 正则表达式学习">
+      <created>1550662433409</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1550662433409</updated>
+    </task>
+    <task id="LOCAL-00012" summary="2019/2/22 设计模式学习">
+      <created>1550836049726</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1550836049727</updated>
+    </task>
+    <task id="LOCAL-00013" summary="2019/2/26 设计模式学习（原型模式）">
+      <created>1551177591329</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1551177591329</updated>
+    </task>
+    <task id="LOCAL-00014" summary="2019/2/28 设计模式学习">
+      <created>1551412631307</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1551412631307</updated>
+    </task>
+    <task id="LOCAL-00015" summary="2019/3/4 设计模式学习">
+      <created>1551682565649</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1551682565649</updated>
+    </task>
+    <task id="LOCAL-00016" summary="2019/3/4 设计模式学习">
+      <created>1551702068083</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1551702068084</updated>
+    </task>
+    <task id="LOCAL-00017" summary="2019/3/5 设计模式学习">
+      <created>1551773073686</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1551773073686</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="65749000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="934" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Image Layers" order="0" />
+      <window_info id="Designer" order="1" />
+      <window_info id="UI Designer" order="2" />
+      <window_info id="Capture Tool" order="3" />
+      <window_info id="Favorites" order="4" sideWeight="0.51028275" side_tool="true" weight="0.18498659" />
+      <window_info active="true" content_ui="combo" id="Project" order="5" sideWeight="0.48971722" visible="true" weight="0.16353887" />
+      <window_info id="Web" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.19023137" />
+      <window_info anchor="bottom" x="44" y="639" width="1492" height="220" id="Run" order="2" sideWeight="0.49932975" weight="0.26863754" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.34832904" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32904884" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32904884" />
+      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.50067025" side_tool="true" weight="0.28277636" />
+      <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.31876606" />
+      <window_info anchor="bottom" id="Docker" order="11" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="12" />
+      <window_info anchor="bottom" id="Java Enterprise" order="13" />
+      <window_info anchor="right" id="Palette" order="0" />
+      <window_info anchor="right" id="Theme Preview" order="1" />
+      <window_info anchor="right" id="Capture Analysis" order="2" />
+      <window_info anchor="right" id="Palette&#9;" order="3" />
+      <window_info anchor="right" id="Maven Projects" order="4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="5" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="6" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="7" weight="0.25" />
+      <window_info anchor="right" id="Structure" order="8" sideWeight="0.50179213" visible="true" weight="0.12399464" />
+      <window_info anchor="right" id="Coverage" order="9" sideWeight="0.4982079" side_tool="true" visible="true" weight="0.07640751" />
+      <window_info anchor="right" id="PlantUML" order="10" weight="0.26675603" />
+      <window_info anchor="right" id="Maven" order="11" />
+      <window_info anchor="right" id="Database" order="12" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="Image Layers" order="0" />
+      <window_info id="Designer" order="1" />
+      <window_info id="UI Designer" order="2" />
+      <window_info id="Capture Tool" order="3" />
+      <window_info id="Favorites" order="4" sideWeight="0.51028275" side_tool="true" weight="0.18498659" />
+      <window_info content_ui="combo" id="Project" order="5" sideWeight="0.48971722" visible="true" weight="0.18766756" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3277635" />
+      <window_info active="true" anchor="bottom" x="44" y="639" width="1492" height="220" id="Run" order="2" sideWeight="0.49932975" visible="true" weight="0.20694087" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.34832904" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32904884" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32904884" />
+      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.50067025" side_tool="true" weight="0.28277636" />
+      <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.32390746" />
+      <window_info anchor="right" id="Palette" order="0" />
+      <window_info anchor="right" id="Theme Preview" order="1" />
+      <window_info anchor="right" id="Capture Analysis" order="2" />
+      <window_info anchor="right" id="Palette&#9;" order="3" />
+      <window_info anchor="right" id="Maven Projects" order="4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="5" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="6" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="7" weight="0.25" />
+      <window_info anchor="right" id="Structure" order="8" sideWeight="0.50179213" weight="0.17297298" />
+      <window_info anchor="right" id="Coverage" order="9" sideWeight="0.4982079" side_tool="true" visible="true" weight="0.07640751" />
+      <window_info anchor="right" id="PlantUML" order="10" weight="0.26675603" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="线程同步学习&#10;生产者消费者模式学习" />
+    <MESSAGE value="2019/2/10" />
+    <MESSAGE value="2019/2/12" />
+    <MESSAGE value="2019/2/14 情人节敲代码" />
+    <MESSAGE value="2019/2/15" />
+    <MESSAGE value="2019/2/17" />
+    <MESSAGE value="2019/2/18  手写webserver完成！！" />
+    <MESSAGE value="2019/2/19  注解和反射" />
+    <MESSAGE value="2019/2/20 正则表达式学习" />
+    <MESSAGE value="2019/2/22 设计模式学习" />
+    <MESSAGE value="2019/2/26 设计模式学习（原型模式）" />
+    <MESSAGE value="2019/2/28 设计模式学习" />
+    <MESSAGE value="2019/3/4 设计模式学习" />
+    <MESSAGE value="2019/3/5 设计模式学习" />
+    <option name="LAST_COMMIT_MESSAGE" value="2019/3/5 设计模式学习" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Net_study02/Chat02/MutilServer.java</url>
+          <line>29</line>
+          <properties />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Net_study02/Chat02/MutilServer.java</url>
+          <line>30</line>
+          <properties />
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/BuildServer/ServerStudy04/server/core/WebApp.java</url>
+          <line>46</line>
+          <properties />
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/DesignPattern/test.java</url>
+          <line>11</line>
+          <properties />
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/BuildServer/ServerStudy02/Request02.java</url>
+          <line>61</line>
+          <properties />
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/BuildServer/ServerStudy02/Request02.java</url>
+          <line>86</line>
+          <properties />
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/DesignPattern/Factory/MethodFactory/test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="8" column="19" lean-forward="true" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DesignPattern/Factory/MethodFactory/read.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DesignPattern/FlyWeight/read.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="17" column="5" lean-forward="true" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DesignPattern/Iterator/read.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="5" column="14" selection-start-line="5" selection-start-column="14" selection-end-line="5" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DesignPattern/Interpreter/read.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DesignPattern/facade/read.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="6" column="16" lean-forward="true" selection-start-line="6" selection-start-column="16" selection-end-line="6" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DesignPattern/Mediator/read.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DesignPattern/Memento/read.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DesignPattern/Observer/read.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="9" column="7" lean-forward="true" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DesignPattern/Prototype/Client2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DesignPattern/Prototype/Client.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="9" column="59" selection-start-line="9" selection-start-column="50" selection-end-line="9" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DesignPattern/Proxy/DynamicProxy2/Gongneng.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DesignPattern/Proxy/DynamicProxy2/Laozong.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="2" column="35" selection-start-line="2" selection-start-column="35" selection-end-line="2" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DesignPattern/Proxy/DynamicProxy/Star.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="8" column="23" lean-forward="true" selection-start-line="8" selection-start-column="23" selection-end-line="8" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DesignPattern/Proxy/DynamicProxy2/MishuHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="24" column="24" selection-start-line="24" selection-start-column="24" selection-end-line="24" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DesignPattern/Proxy/DynamicProxy2/Client.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="9" column="20" lean-forward="true" selection-start-line="9" selection-start-column="20" selection-end-line="9" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DesignPattern/Proxy/DynamicProxy3/Laozong.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="4" column="40" selection-start-line="4" selection-start-column="32" selection-end-line="4" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DesignPattern/Proxy/DynamicProxy3/MishuHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DesignPattern/Proxy/DynamicProxy3/Client.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DesignPattern/Proxy/read.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="10" column="14" lean-forward="true" selection-start-line="10" selection-start-column="14" selection-end-line="10" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DesignPattern/Singleton/Demo01.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DesignPattern/Singleton/Demo02.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DesignPattern/Singleton/Demo03.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DesignPattern/Singleton/Demo04.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="10" column="42" selection-start-line="10" selection-start-column="25" selection-end-line="10" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DesignPattern/Singleton/Demo06.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="13" column="21" lean-forward="true" selection-start-line="13" selection-start-column="21" selection-end-line="13" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DesignPattern/Singleton/Demo05.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="6" column="12" selection-start-line="6" selection-start-column="12" selection-end-line="6" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DesignPattern/State/read.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DesignPattern/Visior/read.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DesignPattern/read.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/GaojiThem/CAS.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="6" column="3" lean-forward="true" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DesignPattern/Adapter/Adaptee.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="8" column="45" selection-start-line="8" selection-start-column="45" selection-end-line="8" selection-end-column="45" />
+          <folding>
+            <element signature="e#118#119#0" expanded="true" />
+            <element signature="e#170#171#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DesignPattern/Adapter/read.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DesignPattern/Adapter/Target.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="3" column="18" selection-start-line="3" selection-start-column="9" selection-end-line="3" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DesignPattern/Adapter/Adapter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DesignPattern/Adapter/Adapter2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="21" column="23" selection-start-line="21" selection-start-column="16" selection-end-line="21" selection-end-column="23" />
+          <folding>
+            <element signature="e#309#310#0" expanded="true" />
+            <element signature="e#342#343#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DesignPattern/Adapter/Client2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="19" column="43" selection-start-line="19" selection-start-column="43" selection-end-line="19" selection-end-column="43" />
+          <folding>
+            <element signature="e#202#203#0" expanded="true" />
+            <element signature="e#231#232#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DesignPattern/Proxy/DynamicProxy/Client.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="19" selection-start-line="19" selection-end-line="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DesignPattern/Proxy/DynamicProxy/RealStar.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DesignPattern/Proxy/DynamicProxy/StarHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="24" selection-start-line="18" selection-start-column="24" selection-end-line="18" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ZJavaAdvanceStage/ReflectionStudy/Demo01.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ZJavaAdvanceStage/ReflectionStudy/Demo02.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="33" column="44" lean-forward="true" selection-start-line="33" selection-start-column="44" selection-end-line="33" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ZJavaAdvanceStage/ReflectionStudy/Demo03.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ZJavaAdvanceStage/ReflectionStudy/Demo04.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-499">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ZJavaAdvanceStage/AnnotationStudy/AnnotationTest01.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="11" column="7" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ZJavaAdvanceStage/AnnotationStudy/AnnotationTest02.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="9" column="3" lean-forward="true" selection-start-line="9" selection-start-column="3" selection-end-line="9" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ZJavaAdvanceStage/AnnotationStudy/SxtField.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="14" column="18" selection-start-line="14" selection-start-column="18" selection-end-line="14" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ZJavaAdvanceStage/AnnotationStudy/SxtTable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="15" column="4" selection-start-line="15" selection-start-column="4" selection-end-line="15" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ZJavaAdvanceStage/AnnotationStudy/Demo01.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ZJavaAdvanceStage/AnnotationStudy/Demo02.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ZJavaAdvanceStage/AnnotationStudy/SxtStudent.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="8" column="21" selection-start-line="8" selection-start-column="11" selection-end-line="8" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ZJavaAdvanceStage/AnnotationStudy/Demo03.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="347">
+          <caret line="22" column="43" lean-forward="true" selection-start-line="22" selection-start-column="43" selection-end-line="22" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>11</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>ShangXueTang300</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>11</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

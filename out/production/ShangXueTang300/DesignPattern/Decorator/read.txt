@@ -1,0 +1,12 @@
+
+装饰器模式：
+    降低了系统的耦合度，可以动态增加和删除对象的职责
+
+应用：
+ -I/O流
+    --Component抽象构件：InputStream、OutputStream、Reader、Writer
+    --ConcreteComponent具体构建角色：FileInputStream、FileReader
+    --Decorator装饰角色：FilterInputStream
+    --ConcreteDecorator具体装饰角色：BufferedOutputStream
+ -Swing图形构件功能
+ -Servlet API中提供一个Request
