@@ -9,7 +9,7 @@ import java.net.Socket;
 import java.util.Date;
 
 /**
- * 目标：封装响应信息
+ * 目标：封装响应信息Response
  * 1、内容可以动态添加
  * 2、关注状态码，拼接好响应的协议信息
  *
@@ -39,7 +39,7 @@ public class Server03 {
             Socket client = serverSocket.accept();
             System.out.println("一个客户端建立了连接。。。");
 
-            //获取http请求协议
+            //获取http请求协议Request
             //因为http协议底层采用TCP协议实现，因此可以直接用之前TCP获取数据的方式获取请求协议
             InputStream is = client.getInputStream();
             byte[] flush = new byte[1024 * 10];

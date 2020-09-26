@@ -50,7 +50,7 @@ public class Server05 {
             response.println("</title>");
             response.println("</head>");
             response.println("<body>");
-            response.println("shsxt server终于回来了。。"+request.getValue("uname"));
+            response.println("shsxt server终于回来了。。"+"aa");
             response.println("</body>");
             response.println("</html>");
             //这里先添加了内容信息，因此len也发生了变化

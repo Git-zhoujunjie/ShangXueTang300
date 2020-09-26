@@ -36,7 +36,7 @@ public class Server02 {
             Socket client = serverSocket.accept();
             System.out.println("一个客户端建立了连接。。。");
 
-            //获取http请求协议
+            //获取http请求协议request
             //因为http协议底层采用TCP协议实现，因此可以直接用之前TCP获取数据的方式获取请求协议
             InputStream is = client.getInputStream();
             byte[] flush = new byte[1024 * 10];
@@ -58,11 +58,12 @@ public class Server02 {
             content.append("</html>");
             int size = content.toString().getBytes().length;//注意这里一定是字节数的长度
 
+            //返回响应协议response
             //协议头格式（一定要规范）
             StringBuilder responseInfo = new StringBuilder();
             String blank = " ";
             String CRLF = "\r\n";
-            //返回相应协议
+
             //1、响应行:HTTP/1.1 200 OK
             responseInfo.append("HTTP/1.1").append(blank).
                     append(200).append(blank).append("OK").append(CRLF);

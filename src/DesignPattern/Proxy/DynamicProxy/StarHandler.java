@@ -3,6 +3,9 @@ package DesignPattern.Proxy.DynamicProxy;
 import java.lang.reflect.InvocationHandler;
 import java.lang.reflect.Method;
 
+/**
+ * 基于反射机制
+ */
 public class StarHandler implements InvocationHandler {
     private Star star;
 

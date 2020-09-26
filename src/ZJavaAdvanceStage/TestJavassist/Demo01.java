@@ -2,6 +2,9 @@ package ZJavaAdvanceStage.TestJavassist;
 
 import javassist.*;
 
+/**
+ * 字节码操作
+ */
 public class Demo01 {
     public static void main(String[] args) throws Exception {
         ClassPool pool = ClassPool.getDefault();

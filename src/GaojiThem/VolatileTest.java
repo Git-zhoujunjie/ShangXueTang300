@@ -1,7 +1,7 @@
 package GaojiThem;
 
 /**
- * volatile保证线程间变量的可见性，也就是数据点及时同步
+ * volatile保证线程间变量的可见性，也就是数据的及时同步
  */
 public class VolatileTest {
     private static volatile int num = 0; //添加volatile，保证数据点即时同步

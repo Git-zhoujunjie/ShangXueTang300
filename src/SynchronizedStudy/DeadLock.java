@@ -4,6 +4,7 @@ package SynchronizedStudy;
  * 死锁：过多的同步可能造成相互不释放资源
  * 从而造成相互等待
  * 一般发生于同步中持有多个对象的锁
+ * 条件：互斥条件、请求与保持、不剥夺条件、循环等待条件
  *
  */
 public class DeadLock {

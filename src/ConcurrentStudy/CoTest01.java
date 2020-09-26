@@ -82,7 +82,7 @@ class SynContainer{
 //        } catch (InterruptedException e) {
 //            e.printStackTrace();
 //        }
-        this.notifyAll(); //通知消费者接触阻塞
+        this.notifyAll(); //通知消费者解锁阻塞
     }
     //消费馒头
     public synchronized Mantou pop(){

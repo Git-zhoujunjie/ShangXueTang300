@@ -1,9 +1,0 @@
-@startuml
-
-class Client
-interface Target
-class Adapter
-class adaptee
-
-
-@enduml

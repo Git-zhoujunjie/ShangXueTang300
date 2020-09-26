@@ -7,6 +7,7 @@ import java.net.Socket;
 /**
  * 封装请求协议：获取method、URI
  */
+@SuppressWarnings("all")
 public class Request01 {
     private String requestInfo; //请求协议内容
     private String method; //请求方法

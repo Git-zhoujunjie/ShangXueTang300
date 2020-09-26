@@ -18,7 +18,6 @@ public class Client2 {
         Adaptee a = new Adaptee(); //ps2键盘
         Target t = new Adapter2(a); //转接器
         Client2 c = new Client2(); //笔记本刚电脑
-
         c.test(t);
     }
 

@@ -46,7 +46,7 @@ public class Request02 {
         System.out.println(this.requestInfo);
         //1、获取请求方法method，即GET 和POST
         this.method = this.requestInfo.substring(0,this.requestInfo.indexOf("/")).toLowerCase().trim();
-        System.out.println(method);
+        System.out.println("方法："+method);
         //2、获取uri
         int startIdx = this.requestInfo.indexOf("/")+1;
         int endIdx = this.requestInfo.indexOf("HTTP");
@@ -59,7 +59,7 @@ public class Request02 {
             this.uri = urlArray[0];
             this.queryStr = urlArray[1].trim();
         }
-        System.out.println(uri);
+        System.out.println("URI："+uri);
         //System.out.println(queryStr);
 
         //4、获取请求参数queryStr

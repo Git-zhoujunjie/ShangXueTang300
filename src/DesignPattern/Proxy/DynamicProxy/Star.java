@@ -1,13 +1,11 @@
 package DesignPattern.Proxy.DynamicProxy;
 
 /**
- * 抽象角色
+ * 抽象角色，表示要实现的功能
  */
 public interface Star {
 
-    void confer();  //协商
-    void signContract();  //签合同
-    void bookTicket();  //订票
+
     void sing();   //唱歌
-    void collectMoney();  //收钱
+
 }
